@@ -1,0 +1,7 @@
+trojan://32e3cb30-c309-11ef-afac-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp&sni=bmi.ir#pooria+uk%F0%9F%87%AC%F0%9F%87%A7
+trojan://192def30-c309-11ef-b77c-1239d0255272@usa.test3.net:443?security=tls&headerType=none&type=tcp&sni=bmi.ir#pooria+usa%F0%9F%87%BA%F0%9F%87%B8
+trojan://fe305860-c308-11ef-abe5-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&sni=bmi.ir#pooria+fr%F0%9F%87%AB%F0%9F%87%B7
+trojan://927d2940-c308-11ef-9ba9-1239d0255272@sg2-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=bmi.ir#pooria+sg%F0%9F%87%B8%F0%9F%87%AC
+trojan://73d67d40-c308-11ef-afbf-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp&sni=bmi.ir#pooria+uk%F0%9F%87%AC%F0%9F%87%A7
+trojan://4fb98180-c308-11ef-a2a0-1239d0255272@usa.test3.net:443?security=tls&headerType=none&type=tcp&sni=bmi.ir#pooria+usa%F0%9F%87%BA%F0%9F%87%B8
+trojan://5fbf0c90-c307-11ef-be7b-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&sni=bmi.ir#pooria+fr%F0%9F%87%AB%F0%9F%87%B7
